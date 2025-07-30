@@ -1,0 +1,9 @@
+requests
+pandas
+gspread
+beautifulsoup4
+selenium
+openpyxl
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
